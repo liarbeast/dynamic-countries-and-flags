@@ -1,0 +1,9 @@
+﻿NET = { # Netherlands
+	flag_definition = {
+		coa = NET_theocracy
+		priority = 2
+		trigger = { 
+			coa_def_theocracy_flag_trigger = yes
+		}
+	}		
+}
