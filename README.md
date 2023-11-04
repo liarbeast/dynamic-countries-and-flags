@@ -1,5 +1,7 @@
 # Dynamic Countries and Flags
  
+
+ ## List of changes
  | Country     | Name                         | Trigger                    | Map colour | Flag                                                           |
  | ----------- | ---------------------------- | -------------------------- | ---------- | -------------------------------------------------------------- |
  | Netherlands | Dutch Calvinist Congregation | `Theocracy` enacted        |            |                                                                |
